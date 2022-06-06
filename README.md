@@ -1,4 +1,5 @@
 # AKSI_V2
+https://detexify.kirelabs.org/classify.html
 the second circle of hell || AKiSI_здесь_горькие
 
 
