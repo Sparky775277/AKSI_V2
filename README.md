@@ -1,9 +1,6 @@
 # AKSI_V2
 https://detexify.kirelabs.org/classify.html - для тех, кто забыл, как пишется тот или иной символ в техе
 
-the second circle of hell || AKiSI_здесь_горькие
-
-
 ### Список вопросов ✔ ♿ ❌
 
 | Вопрос                                                       | Статус |
